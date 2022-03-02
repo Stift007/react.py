@@ -19,7 +19,7 @@ setup(
   author_email='dsstift@icloud.com',
   license='MIT', 
   classifiers=classifiers,
-  keywords='dscjobs discord', 
+  keywords='flask react components html', 
   packages=find_packages(),
   install_requires=['flask','loguru'] 
 )
