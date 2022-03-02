@@ -12,7 +12,7 @@ setup(
   name='react.py',
   version='0.0.1',
   description='Alternative to Flask to create your own HTML Components',
-  long_description=open('README.MD').read(),
+  long_description=open('README.md').read(),
   long_description_content_type='text/markdown',
   url='',  
   author='DS_Stift007',
